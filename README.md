@@ -6,8 +6,8 @@ This project is a web application built using React and Firebase. The project wa
 
 ## Installation
 
-1. Clone the repository: `https://github.com/sondoquang/stlang-chatapp.git`
-2. Navigate to the project directory: `cd stlang-chatapp`
+1. Clone the repository: `https://github.com/sondoquang/stlang-chat-web.git`
+2. Navigate to the project directory: `cd stlang-chat-web`
 3. Install dependencies: `npm install`
 4. Set up the database: `npm run dev`
 
